@@ -1,0 +1,27 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    background-color: #581845;
+    color: white;
+}
+
+.description {
+    background-color: #900c3f;
+    color: white;
+}
+
+.ingredients {
+    background-color: #c70039;
+    color: white;
+    
+}
+
+.steps {
+    background-color: #ff5733;
+    color: white;
+}
+
+#credits {
+    font-size: small;
+}
